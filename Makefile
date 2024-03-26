@@ -1,6 +1,6 @@
-Test:
+test:
 	pip install -r requirements.txt
-Run:
+run:
 	phyton -m flask run 
-Check:
+check:
 	phyton -m pylint app.py
